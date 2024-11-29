@@ -1,0 +1,4 @@
+We have to include features like
+headers
+menus
+footers
